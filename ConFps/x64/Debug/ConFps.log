@@ -1,0 +1,4 @@
+﻿  ConFps.cpp
+C:\Users\popka\source\repos\ConFps\ConFps\ConFps.cpp(19,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\popka\source\repos\ConFps\ConFps\ConFps.cpp(76,26): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  ConFps.vcxproj -> C:\Users\popka\source\repos\ConFps\x64\Debug\ConFps.exe
